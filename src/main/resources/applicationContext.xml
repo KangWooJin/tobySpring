@@ -12,7 +12,7 @@
     <property name="password" value="1234"/>
   </bean>
 
-  <bean id="userService" class="springbook.user.service.UserService">
+  <bean id="userService" class="springbook.user.service.UserServiceImpl">
     <property name="userDao" ref="userDao"/>
   </bean>
 

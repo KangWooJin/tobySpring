@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f092bafe-096e-4c6c-9068-38b5ee065348" name="Default" comment="" />
+    <list default="true" id="f092bafe-096e-4c6c-9068-38b5ee065348" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_com_springsource_javax_activation_1_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/service/DummyMailSender.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTx.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTest.java" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test-applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/test-applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/numbers.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/AddStatement.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/ConnectionMaker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/CountingConnectionMaker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/CountingDaoFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/DConnectionMaker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/DUserDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/DaoFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/DeleteAllStatement.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/DuplicateUserIdException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/JdbcContext$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/JdbcContext.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/NUserDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/SimpleConnectionMaker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/StatementStrategy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoDeleteAll.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoJdbc$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoJdbc$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoJdbc$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoJdbc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/UserDaoTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/junit/JUnitTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/BufferedReaderCallback.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/CalSumTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/Calculator$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/Calculator$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/Calculator$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/Calculator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/dao/learningtest/template/LineCallback.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/domain/Level.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/domain/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserLevelUpgradePolicy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserLevelUpgradePolicyImpl$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserLevelUpgradePolicyImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserService$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserServiceTest$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserServiceTest$TestUserService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserServiceTest$TestUserServiceException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserServiceTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springbook/user/service/UserTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test-applicationContext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserDaoTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tobySpring.iml" afterPath="$PROJECT_DIR$/tobySpring.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,39 +78,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="62" column="32" lean-forward="false" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            <state relative-caret-position="291">
+              <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,60 +97,10 @@
       <file leaf-file-name="UserDaoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="100" column="40" lean-forward="false" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+            <state relative-caret-position="706">
+              <caret line="158" column="48" lean-forward="false" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1722">
-              <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3451#3452#0" expanded="true" />
-                <element signature="e#3515#3516#0" expanded="true" />
-                <element signature="e#3644#3645#0" expanded="true" />
-                <element signature="e#3680#3681#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDaoDeleteAll.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoDeleteAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <marker date="1520143135938" expanded="true" signature="322:339" ph="delete from users... " />
               </folding>
             </state>
           </provider>
@@ -116,28 +109,38 @@
       <file leaf-file-name="UserDaoJdbc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="48" column="81" lean-forward="false" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+            <state relative-caret-position="483">
+              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#701#1184#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
-                <element signature="e#2269#2514#0" expanded="true" />
-                <element signature="e#2513#2514#0" expanded="true" />
-                <element signature="e#2516#2735#0" expanded="true" />
-                <element signature="e#2734#2735#0" expanded="true" />
-                <marker date="1520147814342" expanded="true" signature="1405:1486" ph="insert into users... " />
-                <marker date="1520147814342" expanded="true" signature="1779:1811" ph="select * fro... users" />
-                <marker date="1520147814342" expanded="true" signature="1976:2007" ph="select * fro... users" />
-                <marker date="1520147814342" expanded="true" signature="2100:2117" ph="delete from users... " />
-                <marker date="1520147814342" expanded="true" signature="2200:2226" ph="select count... users" />
-                <marker date="1520147814342" expanded="true" signature="2460:2475" ph="select count... " />
-                <marker date="1520147814342" expanded="true" signature="2460:2486" ph="select count... users" />
-                <marker date="1520147814342" expanded="true" signature="2832:2855" ph="update users... " />
-                <marker date="1520147814342" expanded="true" signature="2832:2894" ph="update users... " />
-                <marker date="1520147814342" expanded="true" signature="2832:2909" ph="update users... " />
-                <marker date="1520147814342" expanded="true" signature="2832:2921" ph="update users... " />
+                <element signature="e#701#1234#0" expanded="true" />
+                <element signature="e#1233#1234#0" expanded="true" />
+                <element signature="e#2345#2590#0" expanded="true" />
+                <element signature="e#2589#2590#0" expanded="true" />
+                <element signature="e#2592#2811#0" expanded="true" />
+                <element signature="e#2810#2811#0" expanded="true" />
+                <marker date="1520868619671" expanded="true" signature="1455:1545" ph="insert into users... " />
+                <marker date="1520868619671" expanded="true" signature="1855:1887" ph="select * fro... users" />
+                <marker date="1520868619671" expanded="true" signature="2052:2083" ph="select * fro... users" />
+                <marker date="1520868619671" expanded="true" signature="2176:2193" ph="delete from users... " />
+                <marker date="1520868619671" expanded="true" signature="2276:2302" ph="select count... users" />
+                <marker date="1520868619671" expanded="true" signature="2536:2551" ph="select count... " />
+                <marker date="1520868619671" expanded="true" signature="2536:2562" ph="select count... users" />
+                <marker date="1520868619671" expanded="true" signature="2908:2931" ph="update users... " />
+                <marker date="1520868619671" expanded="true" signature="2908:2970" ph="update users... " />
+                <marker date="1520868619671" expanded="true" signature="2908:2996" ph="update users... " />
+                <marker date="1520868619671" expanded="true" signature="2908:3008" ph="update users... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="114" column="3" lean-forward="false" selection-start-line="114" selection-start-column="3" selection-end-line="114" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,8 +148,60 @@
       <file leaf-file-name="test-applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/test-applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="349">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DummyMailSender.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/DummyMailSender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#6032#6033#0" expanded="true" />
+                <element signature="e#6068#6069#0" expanded="true" />
+                <element signature="e#6484#6492#0" expanded="true" />
+                <element signature="e#6539#6540#0" expanded="true" />
+                <element signature="e#6578#6579#0" expanded="true" />
+                <element signature="e#7025#7026#0" expanded="true" />
+                <element signature="e#7067#7068#0" expanded="true" />
+                <element signature="e#7109#7110#0" expanded="true" />
+                <element signature="e#7147#7148#0" expanded="true" />
+                <element signature="e#7185#7186#0" expanded="true" />
+                <element signature="e#7250#7251#0" expanded="true" />
+                <element signature="e#7288#7289#0" expanded="true" />
+                <element signature="e#7353#7354#0" expanded="true" />
+                <element signature="e#7468#7469#0" expanded="true" />
+                <element signature="e#7533#7534#0" expanded="true" />
+                <element signature="e#7566#7567#0" expanded="true" />
+                <element signature="e#7631#7632#0" expanded="true" />
+                <element signature="e#7672#7673#0" expanded="true" />
+                <element signature="e#7713#7714#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tobySpring.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tobySpring.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -169,8 +224,15 @@
       <find>nullValue</find>
       <find>queryFor</find>
       <find>rowMapper</find>
+      <find>canUpgradeLevel</find>
       <find>same</find>
+      <find>Mock</find>
+      <find>get</find>
+      <find>upgradeLevels</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -181,7 +243,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext2.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/DConnectionMaker.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/DUserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/NUserDao.java" />
@@ -207,19 +268,24 @@
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/DaoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/CountingDaoFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/UserDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/domain/Level.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserLevelUpgradePolicy.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserLevelUpgradePolicyImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserEventLevelUpgradePolicyImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/test-applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/DummyMailSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTx.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -236,11 +302,34 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="957" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tobySpring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tobySpring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tobySpring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="-100" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -256,9 +345,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -390,7 +478,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,7 +490,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="SearchEverywhereHistoryKey" value="getter&#9;ACTION&#9;GenerateGetter&#10;Setter&#9;ACTION&#9;GenerateSetter&#10;Const&#9;ACTION&#9;GenerateConstructor" />
+    <property name="SearchEverywhereHistoryKey" value="MailSender&#9;FILE&#9;jar:///Users/user/.m2/repository/org/springframework/spring-context-support/4.3.13.RELEASE/spring-context-support-4.3.13.RELEASE.jar!/org/springframework/mail/MailSender.class&#10;getter&#9;ACTION&#9;GenerateGetterAndSetter&#10;Setter&#9;ACTION&#9;GenerateSetter&#10;Const&#9;ACTION&#9;GenerateConstructor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -427,7 +516,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DaoTest">
+  <component name="RunManager" selected="JUnit.UserServiceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -543,7 +632,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="springbook.user.service" />
-      <option name="MAIN_CLASS_NAME" value="springbook.user.service.UserServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="springbook.user.service.UserServiceImplTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -669,78 +758,89 @@
       <workItem from="1520351629272" duration="2290000" />
       <workItem from="1520478626760" duration="7000" />
       <workItem from="1520507512543" duration="886000" />
-      <workItem from="1520657273389" duration="3821000" />
+      <workItem from="1520657273389" duration="11227000" />
+      <workItem from="1521470993396" duration="2224000" />
+      <workItem from="1521873069645" duration="2953000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserServiceTest - 2018.03.04 at 17h 16m 14s.xml">
+    <history-entry file="UserServiceTest - 2018.03.13 at 00h 30m 21s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest - 2018.03.07 at 01h 04m 15s.xml">
+    <history-entry file="UserServiceTest - 2018.03.13 at 00h 30m 27s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest - 2018.03.07 at 01h 06m 15s.xml">
+    <history-entry file="UserServiceTest - 2018.03.19 at 23h 51m 05s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest - 2018.03.07 at 01h 07m 13s.xml">
+    <history-entry file="UserServiceTest - 2018.03.20 at 00h 16m 18s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest - 2018.03.07 at 01h 26m 29s.xml">
+    <history-entry file="UserServiceTest - 2018.03.20 at 00h 19m 41s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest - 2018.03.07 at 01h 29m 08s.xml">
+    <history-entry file="UserServiceTest - 2018.03.20 at 00h 19m 56s.xml">
       <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest - 2018.03.04 at 17h 11m 58s.xml">
-      <configuration name="UserTest" configurationId="JUnit" />
+    <history-entry file="UserServiceTest - 2018.03.24 at 15h 53m 20s.xml">
+      <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest - 2018.03.04 at 17h 12m 14s.xml">
-      <configuration name="UserTest" configurationId="JUnit" />
+    <history-entry file="UserServiceTest - 2018.03.24 at 15h 56m 54s.xml">
+      <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest - 2018.03.04 at 17h 12m 59s.xml">
-      <configuration name="UserTest" configurationId="JUnit" />
+    <history-entry file="UserServiceTest - 2018.03.24 at 16h 01m 13s.xml">
+      <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest - 2018.03.04 at 17h 16m 08s.xml">
-      <configuration name="UserTest" configurationId="JUnit" />
+    <history-entry file="UserServiceTest - 2018.03.24 at 16h 01m 17s.xml">
+      <configuration name="UserServiceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51355000" />
+    <option name="totallyTimeSpent" value="63938000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="957" extended-state="6" />
+    <frame x="1680" y="-100" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242938" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32223904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23273809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15726767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39863843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32542372" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -764,99 +864,30 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java</url>
+          <line>199</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext2.xml" />
-    <entry file="file://$PROJECT_DIR$/tobySpring.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/annotation/DirtiesContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/DConnectionMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/DUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/NUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/SimpleConnectionMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/CountingConnectionMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/BeanWrapperImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/junit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -988,6 +1019,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -995,6 +1027,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,27 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1395#1396#0" expanded="true" />
-            <element signature="e#1427#1428#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1055,18 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserLevelUpgradePolicyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoDeleteAll.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1085,104 +1085,249 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
-          <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        <state relative-caret-position="191">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="240" column="0" lean-forward="false" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.13.RELEASE/spring-test-4.3.13.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserLevelUpgradePolicyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        <state relative-caret-position="1428">
+          <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/test-applicationContext.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.13.RELEASE/spring-context-support-4.3.13.RELEASE.jar!/org/springframework/mail/MailSender.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/DummyMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoJdbc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="48" column="81" lean-forward="false" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="81" />
+        <state relative-caret-position="483">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#701#1184#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#2269#2514#0" expanded="true" />
-            <element signature="e#2513#2514#0" expanded="true" />
-            <element signature="e#2516#2735#0" expanded="true" />
-            <element signature="e#2734#2735#0" expanded="true" />
-            <marker date="1520147814342" expanded="true" signature="1405:1486" ph="insert into users... " />
-            <marker date="1520147814342" expanded="true" signature="1779:1811" ph="select * fro... users" />
-            <marker date="1520147814342" expanded="true" signature="1976:2007" ph="select * fro... users" />
-            <marker date="1520147814342" expanded="true" signature="2100:2117" ph="delete from users... " />
-            <marker date="1520147814342" expanded="true" signature="2200:2226" ph="select count... users" />
-            <marker date="1520147814342" expanded="true" signature="2460:2475" ph="select count... " />
-            <marker date="1520147814342" expanded="true" signature="2460:2486" ph="select count... users" />
-            <marker date="1520147814342" expanded="true" signature="2832:2855" ph="update users... " />
-            <marker date="1520147814342" expanded="true" signature="2832:2894" ph="update users... " />
-            <marker date="1520147814342" expanded="true" signature="2832:2909" ph="update users... " />
-            <marker date="1520147814342" expanded="true" signature="2832:2921" ph="update users... " />
+            <element signature="e#701#1234#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#2345#2590#0" expanded="true" />
+            <element signature="e#2589#2590#0" expanded="true" />
+            <element signature="e#2592#2811#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <marker date="1520868619671" expanded="true" signature="1455:1545" ph="insert into users... " />
+            <marker date="1520868619671" expanded="true" signature="1855:1887" ph="select * fro... users" />
+            <marker date="1520868619671" expanded="true" signature="2052:2083" ph="select * fro... users" />
+            <marker date="1520868619671" expanded="true" signature="2176:2193" ph="delete from users... " />
+            <marker date="1520868619671" expanded="true" signature="2276:2302" ph="select count... users" />
+            <marker date="1520868619671" expanded="true" signature="2536:2551" ph="select count... " />
+            <marker date="1520868619671" expanded="true" signature="2536:2562" ph="select count... users" />
+            <marker date="1520868619671" expanded="true" signature="2908:2931" ph="update users... " />
+            <marker date="1520868619671" expanded="true" signature="2908:2970" ph="update users... " />
+            <marker date="1520868619671" expanded="true" signature="2908:2996" ph="update users... " />
+            <marker date="1520868619671" expanded="true" signature="2908:3008" ph="update users... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceTx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+        <state relative-caret-position="567">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3451#3452#0" expanded="true" />
-            <element signature="e#3515#3516#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-            <element signature="e#3680#3681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="100" column="40" lean-forward="false" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#657#658#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+            <element signature="e#727#728#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="62" column="32" lean-forward="false" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        <state relative-caret-position="126">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="158" column="48" lean-forward="false" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbook/user/service/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6032#6033#0" expanded="true" />
+            <element signature="e#6068#6069#0" expanded="true" />
+            <element signature="e#6484#6492#0" expanded="true" />
+            <element signature="e#6539#6540#0" expanded="true" />
+            <element signature="e#6578#6579#0" expanded="true" />
+            <element signature="e#7025#7026#0" expanded="true" />
+            <element signature="e#7067#7068#0" expanded="true" />
+            <element signature="e#7109#7110#0" expanded="true" />
+            <element signature="e#7147#7148#0" expanded="true" />
+            <element signature="e#7185#7186#0" expanded="true" />
+            <element signature="e#7250#7251#0" expanded="true" />
+            <element signature="e#7288#7289#0" expanded="true" />
+            <element signature="e#7353#7354#0" expanded="true" />
+            <element signature="e#7468#7469#0" expanded="true" />
+            <element signature="e#7533#7534#0" expanded="true" />
+            <element signature="e#7566#7567#0" expanded="true" />
+            <element signature="e#7631#7632#0" expanded="true" />
+            <element signature="e#7672#7673#0" expanded="true" />
+            <element signature="e#7713#7714#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tobySpring.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="114" column="3" lean-forward="false" selection-start-line="114" selection-start-column="3" selection-end-line="114" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -44,9 +44,9 @@ public class UserDaoTest {
 //                                                               "root", "1234",true);
 //        dao.setDataSource(dataSource);
 
-        this.user1 = new User("gyumee", "박성철", "springgno1", Level.BASIC, 1, 0);
-        this.user2 = new User("leegw700","이길원","springgno2", Level.SILVER, 55, 10);
-        this.user3 = new User("bumjin","박범진","springgno3", Level.GOLD, 100, 40);
+        this.user1 = new User("gyumee", "박성철", "springgno1", Level.BASIC, 1, 0,"springTest@naver.com");
+        this.user2 = new User("leegw700","이길원","springgno2", Level.SILVER, 55, 10,"springbook@naver.com");
+        this.user3 = new User("bumjin","박범진","springgno3", Level.GOLD, 100, 40,"springbook2@naver.com");
     }
     @Test
     public void addAndGet() throws SQLException, ClassNotFoundException {
@@ -151,6 +151,7 @@ public class UserDaoTest {
         user1.setLevel(Level.GOLD);
         user1.setLogin(1000);
         user1.setRecommend(999);
+        user1.setEmail("test@naver.com");
         dao.update(user1);
 
         User user1update = dao.get(user1.getId());
